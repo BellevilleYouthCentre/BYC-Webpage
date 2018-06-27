@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+# Welcome to Belleville Youth Centre's Webpage!
 
-You can use the [editor on GitHub](https://github.com/BellevilleYouthCentre/BYC-Webpage/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+The Belleville Youth Centre provides a safe and accepting environment for youth between the ages of 12 to 18 in the Belleville Area.   The BYC allows youth to reach their full potential by engaging in programming that promotes the engagement and development of new skills. Our dream is to become a centre that is designed by youth and driven by youth!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## The BYC is a FREE drop-in centre that features:
+- Youth room (computers, free WIFI, gaming system & lounge area)
+- Games room (pool tables, air hockey & foosball)
+- Fully equipped art studio
+- Brand new music studio (guitars, drums & a piano)
+- Yoga/dance studio
+- Weekly dinner nights 
+- FREE snacks 
+- Supportive youth workers 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+At the Belleville Youth Centre, you can become who you are!  We provide an environment for youth, no matter their background, race, gender or ethnicity, to become who they are!
 
-- Bulleted
-- List
+>#becomewhoyouare
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/BellevilleYouthCentre/BYC-Webpage/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.

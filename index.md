@@ -1,4 +1,3 @@
-<img src="Welcome/Assets/20638117_512819945723975_6139568000946369828_n.jpg"/>
 
 # Welcome to Belleville Youth Centre!
 

@@ -1,3 +1,6 @@
+![BYC logo](/images/20638117_512819945723975_6139568000946369828_n.jpg)
+
+
 # Welcome to Belleville Youth Centre's Webpage!
 
 The Belleville Youth Centre provides a safe and accepting environment for youth between the ages of 12 to 18 in the Belleville Area.   The BYC allows youth to reach their full potential by engaging in programming that promotes the engagement and development of new skills. Our dream is to become a centre that is designed by youth and driven by youth!
